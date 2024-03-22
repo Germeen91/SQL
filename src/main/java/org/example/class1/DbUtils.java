@@ -13,7 +13,7 @@ public class DbUtils {
         String dbUrl = "jdbc:mysql://3.239.253.255:3306/syntaxhrm_mysql";
         String userName = "syntax_hrm";
         String password = "syntaxhrm123";
-        List<Map<String, String>> tableData = new ArrayList<>();
+        List<Map<String, String>> tableData = new ArrayList<>(); // but it out of blocks to return
 
 
 
